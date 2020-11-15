@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+  <startFrom value="1069" />
+  <proxies>
+	<Item>hei_dt1_06_strm_1</Item>
+	<Item>hei_dt1_06_strm_0</Item>
+	<Item>gabz_pillbox_milo_</Item>
+  </proxies>
+</SInteriorOrderData>
