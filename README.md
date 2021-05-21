@@ -104,8 +104,8 @@ Base V1 Cidade Perdida By ice41
 
 ➥  Vanilla
 
-➥  Bahamas
-                                        ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
+➥  Bahamas                                  
+                                            ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
 
 ➥   Departamento de Policia
 
@@ -113,12 +113,10 @@ Base V1 Cidade Perdida By ice41
 
 ➥  Departamento Medico (Com RP sério)
 
-                                      ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
+                                              ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
 
 ➥ Instagram
 
 ➥ OLX
 
 ➥ Deep Web
-
-                                ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
