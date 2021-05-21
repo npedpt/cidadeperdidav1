@@ -111,7 +111,7 @@ Base V1 Cidade Perdida By ice41
 
 ➥ Mecânico ( Com tunagem e Missões )
 
-➥  Departamento Medico (Com RP sério)
+➥  Departamento Medico
 
                                               ▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬
 
