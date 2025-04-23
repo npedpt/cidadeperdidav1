@@ -170,7 +170,7 @@ Base V1 Cidade Perdida By ice41
 ## Sobre o projeto
 
 # Cidade Perdida -
-- **Desinvilvida em cima da SkipS RJ 3.0**
+- **Desenvilvida em cima da SkipS RJ 3.0**
 - **Todas as modificações e aplicações feitas por ice41 e algumas com ajuda de emanuelnunes**.
 - **Ice41 realizou deiversos projectos em servidores de Portugal e Brasil sendo Gestor e programador do servidor**.
 
